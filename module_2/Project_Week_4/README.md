@@ -11,17 +11,20 @@ The goal of this project is to apply the statistical concepts that you have lear
 
 ## Getting Started
 
-This project consists of two parts: Data cleaning & Exploratory data analysis. You should begin with '1.-Data Cleaning.ipynb', and then move on to '2.-EDA.ipynb' as you will want to use the clean dataset you build in part 1 to complete part 2. 
+This project consists of two parts: Data cleaning & Exploratory data analysis. You should begin with 
+
+'1.-Data Cleaning.ipynb', and then move on to 
+
+'2.-EDA.ipynb' as you will want to use the clean dataset you build in part 1 to complete part 2. 
+
+
 After these 2 parts are finished, you need to create 8 charts using Matplotlib and 8 charts using Seaborn. 
-Each set should have the distinct chart types including linear, bar, scatter, boxplot, pie, radar, multiple series chart and 3D charts. 
-It would be nice to organize the charts as a subplot.
-The charts should have titles, labels, grids and other elements  that allows to read the information properly.
-The charts should have proper dimentions and scales.
-The charts should have reasonable color shcheme.
-The charts should reflect the given dataset and be, at least, potentially useful in terms of descriptive analytics.
-
-
-
+- Each set should have the distinct chart types including linear, bar, scatter, boxplot, pie, radar, multiple series chart and 3D charts. 
+- It would be nice to organize the charts as a subplot.
+- The charts should have titles, labels, grids and other elements  that allows to read the information properly.
+- The charts should have proper dimentions and scales.
+- The charts should have reasonable color shcheme.
+- The charts should reflect the given dataset and be, at least, potentially useful in terms of descriptive analytics.
 
 
 ## Expectations
@@ -41,4 +44,6 @@ The charts should reflect the given dataset and be, at least, potentially useful
 ## Submission
 
 Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+
+
 PLEASE NOTE: YOU NEED TO SHARE THE LINK TO THE GITHUB REPO WITH THE DELIVERABLES TILL 8.30 AM ON MONDAY!
